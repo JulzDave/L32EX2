@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+
+.channelsR{
+  float:left;
+  border: 1px solid black;
+  padding:10px;
+  margin:20px;
+  cursor: pointer;
+  background: red;
+  color:white;
+  font-weight: bolder;
+}
+
+.channelsG{
+  float:left;
+  border: 1px solid black;
+  padding:10px;
+  margin:20px;
+  cursor: pointer;
+  background: green;
+  color:white;
+  font-weight: bolder;
+}
